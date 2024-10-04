@@ -1,0 +1,49 @@
+{
+  "$schema": "https://json.schemastore.org/package",
+  "name": "backgrupo2",
+  "version": "1.0.0",
+  "main": "server.js",
+  "author": {
+    "name": "David Coach dev",
+    "email": "dcdevyk@gmail.com",
+    "url": "https://github.com/DavidCoachDev"
+  },
+  "contributors": [
+    "(in alphabetical order)",
+    "David Caycedo <dcdevtk@gmail.com>"
+  ],
+  "license": "MIT",
+  "engines": {
+    "node": ">=20"
+  },
+   "type": "module",
+  "scripts": {
+    "start": "node src/server.js",
+    "dev": "nodemon -e js src/server.js"
+  },
+  "keywords": [],
+  "description": "Backend",
+  "dependencies": {
+    "cookie-parser": "^1.4.6",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.21.0",
+    "helmet": "^8.0.0",
+    "jsonwebtoken": "^9.0.2",
+    "morgan": "^1.10.0",
+    "multer": "^1.4.5-lts.1",
+    "serve-favicon": "^2.5.0",
+    "swagger-jsdoc": "^6.2.8",
+    "swagger-themes": "^1.4.3",
+    "swagger-ui-express": "^5.0.1",
+    "url": "^0.11.4"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.7"
+  },
+    "imports": {
+    "#lib/*": "./src/lib/*/index.js",
+    "#api/*": "./src/api/*/index.js",
+    "#src/*": "./src/*/index.js"
+  }
+}
