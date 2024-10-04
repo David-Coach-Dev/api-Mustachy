@@ -1,4 +1,4 @@
-# 📚Readme for ![Logo ](./src/assets/img/logo.png) Mustachy Api ✨
+# 📚Readme for ![Logo](./src/assets/img/logo.jpg) Mustachy Api ✨
 
 ## 📖 Table Of Contents
 
@@ -49,11 +49,11 @@ Participating in the Gentleman Programming challenge in the backend area allowed
 
 ## 🤵‍♂️ Communication channels [🔝](#readme-for--mustachy-api-)
 
-[[![Discord Link](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white 'Discord Link')](https://discord.gg/4EzBg2hf) [![LinkedIn Link](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white 'LinkedIn Link')](https://www.linkedin.com/company/gentleman-programming/mycompany/)
+[![Discord Link](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white 'Discord Link')](https://discord.gg/4EzBg2hf) [![LinkedIn Link](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white 'LinkedIn Link')](https://www.linkedin.com/company/gentleman-programming/mycompany/)
 
 ## 🗣️ Community of Gentleman Programming [🔝](#readme-for--mustachy-api-)
 
-|![Logo ](./backend/src/assets/img/logo.png)|
+|![Logo ](./src/assets/img/logo.jpg)|
 |:-:|
 | **Gentleman Programming** |
 | [![Github Link](https://img.shields.io/badge/github-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white 'Github Link')](https://github.com/Gentleman-Programming) [!['LinkedIn Link'](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white 'LinkedIn Link')](https://www.linkedin.com/in/laura-leyes/) [![Github Link](https://img.shields.io/badge/github-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white 'Github Link')](https://github.com/Ryusse) |
