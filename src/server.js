@@ -53,7 +53,6 @@ const root = process.cwd();
 const assetsFolder = join(root, "/src/assets");
 const icoFolder = join(assetsFolder, "/ico/favicon.ico");
 
-
 //==================
 // Server Config
 //==================

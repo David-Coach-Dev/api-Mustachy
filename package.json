@@ -1,6 +1,6 @@
 {
   "$schema": "https://json.schemastore.org/package",
-  "name": "backgrupo2",
+  "name": "mustachy-api",
   "version": "1.0.0",
   "main": "server.js",
   "author": {
@@ -24,6 +24,7 @@
   "keywords": [],
   "description": "Backend",
   "dependencies": {
+    "@vercel/node": "^3.2.18",
     "bcrypt": "^5.1.1",
     "cloudinary": "^2.5.0",
     "cookie-parser": "^1.4.6",
