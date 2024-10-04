@@ -10,7 +10,7 @@
   - [🗣️ Community of Gentleman Programming 🔝](#️-community-of-gentleman-programming-)
   - [🤵‍♂️Teams 🔝](#️teams-)
     - [🧑‍🎨 Mentor 🔝](#-mentor-)
-    - [💻 Backend 🔝](#-backend-)
+    - [💻 developer 🔝](#-developer-)
   - [🗃️ Project info 🔝](#️-project-info-)
     - [📚 License 🔝](#-license-)
     - [📚 Workspaces info 🔝](#-workspaces-info-)
@@ -62,7 +62,7 @@ Participating in the Gentleman Programming challenge in the backend area allowed
 | **Alan Buscaglia** |
 |[![Github Link](https://img.shields.io/badge/github-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white 'Github Link')](https://github.com/Alan-TheGentleman) [![LinkedIn Link](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white 'LinkedIn Link')](https://www.linkedin.com/in/alanbuscaglia/) |
 
-### 💻 Backend [🔝](#readme-for--mustachy-api-)
+### 💻 developer [🔝](#readme-for--mustachy-api-)
 
 | ![Avatar](https://avatars.githubusercontent.com/u/69812733?s=96&v=4) |
 |:-:|
