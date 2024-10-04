@@ -62,7 +62,7 @@ Participating in the Gentleman Programming challenge in the backend area allowed
 
 ### 🧑‍🎨 Mentor [🔝](#readme-for--mustachy-api-)
 
-| ![Avatar](https://media.licdn.com/dms/image/v2/D4D03AQHrEfNDfHDWPA/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1728013108314?e=1733356800&v=beta&t=s8Ay19bvRGvcUVKsB58hTvizS1chFpXV1RAdPQICa6E?s=96&v=4) |
+| ![Avatar](https://media.licdn.com/dms/image/v2/D4D03AQHrEfNDfHDWPA/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1728013108314?e=1733356800&v=beta&t=s8Ay19bvRGvcUVKsB58hTvizS1chFpXV1RAdPQICa6E) |
 |:-:|
 | **Alan Buscaglia** |
 |[![Github Link](https://img.shields.io/badge/github-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white 'Github Link')](https://github.com/Alan-TheGentleman) [![LinkedIn Link](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white 'LinkedIn Link')](https://www.linkedin.com/in/alanbuscaglia/) |
