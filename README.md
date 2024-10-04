@@ -7,7 +7,6 @@
   - [📋 About this project 🔝](#-about-this-project-)
   - [⚙️ Technology Stack 🔝](#️-technology-stack-)
     - [🧰 Back End 🔝](#-back-end-)
-  - [🤵‍♂️ Communication channels 🔝](#️-communication-channels-)
   - [🗣️ Community of Gentleman Programming 🔝](#️-community-of-gentleman-programming-)
   - [🤵‍♂️Teams 🔝](#️teams-)
     - [🧑‍🎨 Mentor 🔝](#-mentor-)
@@ -47,16 +46,12 @@ Participating in the Gentleman Programming challenge in the backend area allowed
 [![Zod Link](https://img.shields.io/badge/zod-3E67B1?style=for-the-badge&logo=zod&logoColor=892CA0&color=313131)](https://zod.dev/ 'Zod Link') [![JSON_WEB_TOKENS Link](https://img.shields.io/badge/JSON_WEB_TOKENS-212121?style=for-the-badge&logo=jsonwebtokens&logoColor=ffffff 'JSON_WEB_TOKENS Link')](https://jwt.io/)
 [![MongoDB Link](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white 'MongoBD Link')](https://www.mongodb.com/atlas/database)
 
-## 🤵‍♂️ Communication channels [🔝](#readme-for--mustachy-api-)
-
-[![Discord Link](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white 'Discord Link')](https://discord.gg/4EzBg2hf) [![LinkedIn Link](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white 'LinkedIn Link')](https://www.linkedin.com/company/gentleman-programming/mycompany/) [![Github Link](https://img.shields.io/badge/github-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white 'Github Link')](https://github.com/Gentleman-Programming)
-
 ## 🗣️ Community of Gentleman Programming [🔝](#readme-for--mustachy-api-)
 
 |![Logo ](./src/assets/img/logo.jpg)|
 |:-:|
 | **Gentleman Programming** |
-| [![Github Link](https://img.shields.io/badge/github-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white 'Github Link')](https://github.com/Gentleman-Programming) [!['LinkedIn Link'](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white 'LinkedIn Link')](https://www.linkedin.com/in/alanbuscaglia/) |
+| [![Discord Link](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white 'Discord Link')](https://discord.gg/4EzBg2hf) [![LinkedIn Link](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white 'LinkedIn Link')](https://www.linkedin.com/company/gentleman-programming/mycompany/) [![Github Link](https://img.shields.io/badge/github-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white 'Github Link')](https://github.com/Gentleman-Programming) |
 
 ## 🤵‍♂️Teams [🔝](#readme-for--mustachy-api-)
 
@@ -92,8 +87,8 @@ Participating in the Gentleman Programming challenge in the backend area allowed
 | Description |  Deploy | link |
 |:-: |:-: | :-: |
 | Repository | [![Github Link](https://img.shields.io/badge/github-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white 'Github Link')](https://github.com) | [Repo App](https://github.com/David-Coach-Dev/api-Mustachy.git 'Repo App') |
-| Backend | [![Vercel Link](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white 'Vercel Link')](https://vercel.com/) |[Back-End](https://mustachyapi.vercel.app/api/v1/docs) |
-| Data Base | [![MongoDB Link](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white 'MongoBD Link')](https://www.mongodb.com/atlas/database) | [Data Base](https://mustachyapi.vercel.app/api/v1/docs) |
+| Backend | [![Vercel Link](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white 'Vercel Link')](https://vercel.com/) |[Back-End](https://api-mustachyapi.vercel.app/api/v1/docs) |
+| Data Base | [![MongoDB Link](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white 'MongoBD Link')](https://www.mongodb.com/atlas/database) | [Data Base](https://api-mustachyapi.vercel.app/api/v1/docs) |
 
 ## 🛠️ Requirements [🔝](#readme-for--mustachy-api-)
 
