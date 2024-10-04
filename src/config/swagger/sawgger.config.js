@@ -8,7 +8,7 @@ const env =
   process.env.VERCEL_ENV?.trim() !== "production" ? "development" : "production";
 const port = PORT ?? 3001;
 const hostDev = HOST_DEV ?? "localhost";
-const hostProd = HOST_PROD_BACK ?? "restifyApi2.vercel.app";
+const hostProd = HOST_PROD_BACK ?? "api-mustachy.vercel.app";
 const theme = new SwaggerTheme();
 const darkStyle = theme.getBuffer(SwaggerThemeNameEnum.DARK);
 const serverUrl =
