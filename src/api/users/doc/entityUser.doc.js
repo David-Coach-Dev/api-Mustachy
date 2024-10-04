@@ -22,21 +22,12 @@
  *        lastName:
  *          type: string
  *          example: Apellido del usuario.
- *        dni:
- *          type: string
- *          example: DNI del usuario.
  *        email:
  *          type: string
  *          example: email del usuario.
  *        password:
  *          type: string
  *          example: Password del usuario.
- *        phone:
- *          type: string
- *          example: Numero del usuario.
- *        role:
- *          type: string
- *          example: Id del rol asignado al usuario.
  *        isActive:
  *          type: boolean
  *          example: true

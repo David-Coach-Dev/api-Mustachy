@@ -2,7 +2,7 @@
 // Imports
 //===========
 import { model, Schema } from "mongoose";
-import { toLocalDate, toUTCDate } from "#utils/validations";
+import { toLocalDate, toUTCDate } from "#lib/validations";
 import { DEFAULT_USER } from "#src/config";
 
 //==========================
@@ -13,7 +13,6 @@ const userSchema = new Schema(
     avatar: { type: String, default: DEFAULT_USER },
     name: { type: String, required: true },
     lastName: { type: String, required: true },
-    dni: { type: String, default: null },
     email: {
       type: String,
       required: true,
@@ -23,8 +22,6 @@ const userSchema = new Schema(
       match: [/^[^\s@]+@[^\s@]+\.[^\s@]+$/, "The email format is not valid"],
     },
     password: { type: String, required: true },
-    phone: { type: String, default: null },
-    role: { type: Schema.Types.ObjectId, ref: "Role", default: null },
     isActive: { type: Boolean, default: true },
     createdAt: {
       type: Date,

@@ -1,4 +1,4 @@
-import { apiResponse } from "#utils/apiRespond";
+import { apiResponse } from "#lib/apiRespond";
 import { getStart } from "#api/start";
 
 export const start = async (req, res) => {

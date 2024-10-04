@@ -8,7 +8,7 @@ import {
   loginUserService,
   updateUserService,
 } from "#api/users";
-import { deleteTempFile } from "#utils/cloudinary";
+import { deleteTempFile } from "#lib/cloudinary";
 import {
   errorProfiler,
   isBodyParamsValidate,
@@ -17,7 +17,7 @@ import {
   setUrlImage,
   successProfiler,
   uploadImageToCloud,
-} from "#utils/validations";
+} from "#lib/validations";
 
 //=========
 // Login

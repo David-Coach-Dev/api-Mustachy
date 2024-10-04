@@ -22,12 +22,9 @@ const { BCRYPT_SALT, TOKEN_EXPIRATION, TOKEN_SECRET } = process.env;
 const fieldsToShow = [
   "id",
   "avatar",
-  "dni",
   "name",
   "lastName",
   "email",
-  "phone",
-  "role",
   "isActive"
 ];
 

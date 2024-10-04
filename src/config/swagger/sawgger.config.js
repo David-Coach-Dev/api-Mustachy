@@ -2,7 +2,7 @@ import "dotenv/config";
 import swaggerJsDoc from "swagger-jsdoc";
 import { SwaggerTheme, SwaggerThemeNameEnum } from "swagger-themes";
 import swaggerUI from "swagger-ui-express";
-const { HOST_DEV, HOST_PROD_FRONT, HOST_PROD_BACK, PORT } = process.env;
+const { HOST_DEV, PORT, HOST_PROD_BACK } = process.env;
 
 const env =
   process.env.VERCEL_ENV?.trim() !== "production" ? "development" : "production";
@@ -21,14 +21,14 @@ const swaggerConfig = {
   definition: {
     openapi: "3.0.0",
     info: {
-      title: "Restify Api.",
-      summary: "Restaurant Management System.",
-      description: "Restaurant Management System By.",
+      title: "Api.",
+      summary: "Api Management System.",
+      description: "Api Management System By.",
       termsOfService: "http://swagger.io/terms/",
       contact: {
-        name: "S17-16-T-NODE-REACT",
-        url: "https://no-country.slack.com/archives/C07HAA2JQV9",
-        email: "s1716tnodereact@gmail.com",
+        name: "Mustachy",
+        url: 'https://the-amazing-gentleman-programming-book.vercel.app/',
+        email: 'mustachy@gmail.com',
       },
       license: {
         name: "MIT",
@@ -133,7 +133,7 @@ const swaggerOptions = {
   ],
   customCss: `${darkStyle}
     .main{
-      background-image: url("/assets/img/logo.png");
+      background-image: url("/assets/img/logo.jpg");
       background-size: 60px 60px;
       background-repeat: no-repeat;
       padding-left: 70px;

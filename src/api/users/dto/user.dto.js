@@ -5,13 +5,10 @@ export class UserDTO {
   constructor(user) {
     this.id = user.id;
     this.avatar = user.avatar;
-    this.dni = user.dni;
     this.name = user.name;
     this.lastName = user.lastName;
     this.email = user.email;
     this.password = user.password;
-    this.phone = user.phone;
-    this.role = user.role;
     this.isActive = user.isActive;
     this.createdAt = user.createdAt;
     this.updatedAt = user.updatedAt;
@@ -28,9 +25,6 @@ export class UserDTO {
     this.avatar = value;
   }
 
-  setDni(value) {
-    this.dni = value;
-  }
 
   setName(value) {
     this.name = value;
@@ -46,14 +40,6 @@ export class UserDTO {
 
   setPassword(value) {
     this.password = value;
-  }
-
-  setPhone(value) {
-    this.phone = value;
-  }
-
-  setRole(value) {
-    this.role = value;
   }
 
   setIsActive(value) {
@@ -78,9 +64,6 @@ export class UserDTO {
   getAvatar() {
     return this.avatar;
   }
-  getDni() {
-    return this.dni;
-  }
 
   getName() {
     return this.name;
@@ -98,14 +81,7 @@ export class UserDTO {
     return this.password;
   }
 
-  getPhone() {
-    return this.phone;
-  }
-
-  getRole() {
-    return this.role;
-  }
-
+  
   getIsActive() {
     return this.isActive;
   }

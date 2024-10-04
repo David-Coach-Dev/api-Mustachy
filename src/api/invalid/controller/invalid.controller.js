@@ -1,7 +1,7 @@
 //===========
 // Imports
 //===========
-import { apiResponse } from "#utils/apiRespond";
+import { apiResponse } from "#lib/apiRespond";
 import { getInvalid } from "#api/invalid";
 
 //===========
