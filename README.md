@@ -1,4 +1,4 @@
-# 📚Readme for ![Logo](./src/assets/img/logo.jpg) Mustachy Api ✨
+# 📚Readme for ![Logo](./src/assets/ico/favicon.ico) Mustachy Api ✨
 
 ## 📖 Table Of Contents
 
