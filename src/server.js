@@ -60,7 +60,7 @@ server.use(express.json());
 server.use(express.urlencoded({ extends: true }));
 server.use(cookieParser());
 server.use(logger("dev"));
-server.use(cors());
+server.use(cors(corsOptions));
 server.use(helmet());
 server.use("/assets", express.static(assetsFolder));
 server.use(favicon(icoFolder));

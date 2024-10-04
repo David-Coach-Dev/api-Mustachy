@@ -72,7 +72,7 @@ const swaggerOptions = {
   swaggerUi: true,
   docExpansion: "list",
   filter: true,
-  customSiteTitle: "Restify Api",
+  customSiteTitle: "Api Mustachy",
   customHeadTags: [
     {
       tagName: "meta",
@@ -95,7 +95,7 @@ const swaggerOptions = {
       closeTag: true,
       attributes: {
         name: "twitter:description",
-        content: "Un Sistema de Manejo de equipo",
+        content: "Un Sistema de api server",
       },
     },
     {
@@ -119,7 +119,7 @@ const swaggerOptions = {
       closeTag: true,
       attributes: {
         property: "og:description",
-        content: "Un Sistema de Manejo de equipo",
+        content: "Un Sistema de api server",
       },
     },
     {
